@@ -1,0 +1,1200 @@
+Training epoch 0
+* Trained network on character d (-2.992616) 
+Training epoch 1
+Training epoch 2
+Training epoch 3
+Training epoch 4
+Training epoch 5
+* Trained network on character d (-0.881238) 
+Training epoch 6
+Training epoch 7
+Training epoch 8
+Training epoch 9
+Training epoch 10
+* Trained network on character d (-0.921165) 
+Training epoch 11
+Training epoch 12
+Training epoch 13
+Training epoch 14
+Training epoch 15
+* Trained network on character d (-0.867246) 
+Training epoch 16
+Training epoch 17
+Training epoch 18
+Training epoch 19
+Training epoch 20
+* Trained network on character d (-0.829789) 
+Training epoch 21
+Training epoch 22
+Training epoch 23
+Training epoch 24
+Training epoch 25
+* Trained network on character d (-0.832068) 
+Training epoch 26
+Training epoch 27
+Training epoch 28
+Training epoch 29
+Training epoch 30
+* Trained network on character d (-0.790705) 
+Training epoch 31
+Training epoch 32
+Training epoch 33
+Training epoch 34
+Training epoch 35
+* Trained network on character d (-0.808771) 
+Training epoch 36
+Training epoch 37
+Training epoch 38
+Training epoch 39
+Training epoch 40
+* Trained network on character d (-0.829258) 
+Training epoch 41
+Training epoch 42
+Training epoch 43
+Training epoch 44
+Training epoch 45
+* Trained network on character d (-0.967387) 
+Training epoch 46
+Training epoch 47
+Training epoch 48
+Training epoch 49
+Training epoch 50
+* Trained network on character d (-1.291461) 
+Training epoch 51
+Training epoch 52
+Training epoch 53
+Training epoch 54
+Training epoch 55
+* Trained network on character d (-1.366631) 
+Training epoch 56
+Training epoch 57
+Training epoch 58
+Training epoch 59
+Training epoch 60
+* Trained network on character d (-1.367628) 
+Training epoch 61
+Training epoch 62
+Training epoch 63
+Training epoch 64
+Training epoch 65
+* Trained network on character d (-1.340943) 
+Training epoch 66
+Training epoch 67
+Training epoch 68
+Training epoch 69
+Training epoch 70
+* Trained network on character d (-1.362760) 
+Training epoch 71
+Training epoch 72
+Training epoch 73
+Training epoch 74
+Training epoch 75
+* Trained network on character d (-1.295458) 
+Training epoch 76
+Training epoch 77
+Training epoch 78
+Training epoch 79
+Training epoch 80
+* Trained network on character d (-1.254798) 
+Training epoch 81
+Training epoch 82
+Training epoch 83
+Training epoch 84
+Training epoch 85
+* Trained network on character d (-1.244121) 
+Training epoch 86
+Training epoch 87
+Training epoch 88
+Training epoch 89
+Training epoch 90
+* Trained network on character d (-1.241692) 
+Training epoch 91
+Training epoch 92
+Training epoch 93
+Training epoch 94
+Training epoch 95
+* Trained network on character d (-1.240975) 
+Training epoch 96
+Training epoch 97
+Training epoch 98
+Training epoch 99
+Training epoch 100
+* Trained network on character d (-1.237434) 
+Training epoch 101
+Training epoch 102
+Training epoch 103
+Training epoch 104
+Training epoch 105
+* Trained network on character d (-1.245025) 
+Training epoch 106
+Training epoch 107
+Training epoch 108
+Training epoch 109
+Training epoch 110
+* Trained network on character d (-1.272355) 
+Training epoch 111
+Training epoch 112
+Training epoch 113
+Training epoch 114
+Training epoch 115
+* Trained network on character d (-1.283103) 
+Training epoch 116
+Training epoch 117
+Training epoch 118
+Training epoch 119
+Training epoch 120
+* Trained network on character d (-1.226509) 
+Training epoch 121
+Training epoch 122
+Training epoch 123
+Training epoch 124
+Training epoch 125
+* Trained network on character d (-1.213642) 
+Training epoch 126
+Training epoch 127
+Training epoch 128
+Training epoch 129
+Training epoch 130
+* Trained network on character d (-1.205374) 
+Training epoch 131
+Training epoch 132
+Training epoch 133
+Training epoch 134
+Training epoch 135
+* Trained network on character d (-1.199067) 
+Training epoch 136
+Training epoch 137
+Training epoch 138
+Training epoch 139
+Training epoch 140
+* Trained network on character d (-1.199789) 
+Training epoch 141
+Training epoch 142
+Training epoch 143
+Training epoch 144
+Training epoch 145
+* Trained network on character d (-1.199595) 
+Training epoch 146
+Training epoch 147
+Training epoch 148
+Training epoch 149
+Training epoch 150
+* Trained network on character d (-1.192617) 
+Training epoch 151
+Training epoch 152
+Training epoch 153
+Training epoch 154
+Training epoch 155
+* Trained network on character d (-1.186389) 
+Training epoch 156
+Training epoch 157
+Training epoch 158
+Training epoch 159
+Training epoch 160
+* Trained network on character d (-1.181740) 
+Training epoch 161
+Training epoch 162
+Training epoch 163
+Training epoch 164
+Training epoch 165
+* Trained network on character d (-1.178478) 
+Training epoch 166
+Training epoch 167
+Training epoch 168
+Training epoch 169
+Training epoch 170
+* Trained network on character d (-1.173004) 
+Training epoch 171
+Training epoch 172
+Training epoch 173
+Training epoch 174
+Training epoch 175
+* Trained network on character d (-1.169576) 
+Training epoch 176
+Training epoch 177
+Training epoch 178
+Training epoch 179
+Training epoch 180
+* Trained network on character d (-1.170310) 
+Training epoch 181
+Training epoch 182
+Training epoch 183
+Training epoch 184
+Training epoch 185
+* Trained network on character d (-1.174112) 
+Training epoch 186
+Training epoch 187
+Training epoch 188
+Training epoch 189
+Training epoch 190
+* Trained network on character d (-1.171428) 
+Training epoch 191
+Training epoch 192
+Training epoch 193
+Training epoch 194
+Training epoch 195
+* Trained network on character d (-1.161526) 
+Training epoch 196
+Training epoch 197
+Training epoch 198
+Training epoch 199
+Training epoch 200
+* Trained network on character d (-1.154787) 
+Training epoch 201
+Training epoch 202
+Training epoch 203
+Training epoch 204
+Training epoch 205
+* Trained network on character d (-1.148687) 
+Training epoch 206
+Training epoch 207
+Training epoch 208
+Training epoch 209
+Training epoch 210
+* Trained network on character d (-1.143493) 
+Training epoch 211
+Training epoch 212
+Training epoch 213
+Training epoch 214
+Training epoch 215
+* Trained network on character d (-1.139268) 
+Training epoch 216
+Training epoch 217
+Training epoch 218
+Training epoch 219
+Training epoch 220
+* Trained network on character d (-1.135759) 
+Training epoch 221
+Training epoch 222
+Training epoch 223
+Training epoch 224
+Training epoch 225
+* Trained network on character d (-1.132727) 
+Training epoch 226
+Training epoch 227
+Training epoch 228
+Training epoch 229
+Training epoch 230
+* Trained network on character d (-1.130038) 
+Training epoch 231
+Training epoch 232
+Training epoch 233
+Training epoch 234
+Training epoch 235
+* Trained network on character d (-1.127604) 
+Training epoch 236
+Training epoch 237
+Training epoch 238
+Training epoch 239
+Training epoch 240
+* Trained network on character d (-1.125372) 
+Training epoch 241
+Training epoch 242
+Training epoch 243
+Training epoch 244
+Training epoch 245
+* Trained network on character d (-1.123295) 
+Training epoch 246
+Training epoch 247
+Training epoch 248
+Training epoch 249
+Training epoch 250
+* Trained network on character d (-1.121347) 
+Training epoch 251
+Training epoch 252
+Training epoch 253
+Training epoch 254
+Training epoch 255
+* Trained network on character d (-1.119514) 
+Training epoch 256
+Training epoch 257
+Training epoch 258
+Training epoch 259
+Training epoch 260
+* Trained network on character d (-1.117774) 
+Training epoch 261
+Training epoch 262
+Training epoch 263
+Training epoch 264
+Training epoch 265
+* Trained network on character d (-1.116124) 
+Training epoch 266
+Training epoch 267
+Training epoch 268
+Training epoch 269
+Training epoch 270
+* Trained network on character d (-1.114553) 
+Training epoch 271
+Training epoch 272
+Training epoch 273
+Training epoch 274
+Training epoch 275
+* Trained network on character d (-1.113054) 
+Training epoch 276
+Training epoch 277
+Training epoch 278
+Training epoch 279
+Training epoch 280
+* Trained network on character d (-1.111621) 
+Training epoch 281
+Training epoch 282
+Training epoch 283
+Training epoch 284
+Training epoch 285
+* Trained network on character d (-1.110243) 
+Training epoch 286
+Training epoch 287
+Training epoch 288
+Training epoch 289
+Training epoch 290
+* Trained network on character d (-1.108922) 
+Training epoch 291
+Training epoch 292
+Training epoch 293
+Training epoch 294
+Training epoch 295
+* Trained network on character d (-1.107649) 
+Training epoch 296
+Training epoch 297
+Training epoch 298
+Training epoch 299
+Training epoch 300
+* Trained network on character d (-1.106421) 
+Training epoch 301
+Training epoch 302
+Training epoch 303
+Training epoch 304
+Training epoch 305
+* Trained network on character d (-1.105237) 
+Training epoch 306
+Training epoch 307
+Training epoch 308
+Training epoch 309
+Training epoch 310
+* Trained network on character d (-1.104090) 
+Training epoch 311
+Training epoch 312
+Training epoch 313
+Training epoch 314
+Training epoch 315
+* Trained network on character d (-1.102978) 
+Training epoch 316
+Training epoch 317
+Training epoch 318
+Training epoch 319
+Training epoch 320
+* Trained network on character d (-1.101796) 
+Training epoch 321
+Training epoch 322
+Training epoch 323
+Training epoch 324
+Training epoch 325
+* Trained network on character d (-0.105862) 
+Training epoch 326
+Training epoch 327
+Training epoch 328
+Training epoch 329
+Training epoch 330
+* Trained network on character d (-0.104876) 
+Training epoch 331
+Training epoch 332
+Training epoch 333
+Training epoch 334
+Training epoch 335
+* Trained network on character d (-0.105740) 
+Training epoch 336
+Training epoch 337
+Training epoch 338
+Training epoch 339
+Training epoch 340
+* Trained network on character d (-0.113097) 
+Training epoch 341
+Training epoch 342
+Training epoch 343
+Training epoch 344
+Training epoch 345
+* Trained network on character d (-0.113275) 
+Training epoch 346
+Training epoch 347
+Training epoch 348
+Training epoch 349
+Training epoch 350
+* Trained network on character d (-0.112072) 
+Training epoch 351
+Training epoch 352
+Training epoch 353
+Training epoch 354
+Training epoch 355
+* Trained network on character d (-0.109817) 
+Training epoch 356
+Training epoch 357
+Training epoch 358
+Training epoch 359
+Training epoch 360
+* Trained network on character d (-0.107550) 
+Training epoch 361
+Training epoch 362
+Training epoch 363
+Training epoch 364
+Training epoch 365
+* Trained network on character d (-0.105483) 
+Training epoch 366
+Training epoch 367
+Training epoch 368
+Training epoch 369
+Training epoch 370
+* Trained network on character d (-0.103566) 
+Training epoch 371
+Training epoch 372
+Training epoch 373
+Training epoch 374
+Training epoch 375
+* Trained network on character d (-0.101760) 
+Training epoch 376
+Training epoch 377
+Training epoch 378
+Training epoch 379
+Training epoch 380
+* Trained network on character d (-0.100062) 
+Training epoch 381
+Training epoch 382
+Training epoch 383
+Training epoch 384
+Training epoch 385
+* Trained network on character d (-0.098461) 
+Training epoch 386
+Training epoch 387
+Training epoch 388
+Training epoch 389
+Training epoch 390
+* Trained network on character d (-0.096949) 
+Training epoch 391
+Training epoch 392
+Training epoch 393
+Training epoch 394
+Training epoch 395
+* Trained network on character d (-0.095522) 
+Training epoch 396
+Training epoch 397
+Training epoch 398
+Training epoch 399
+Training epoch 400
+* Trained network on character d (-0.094172) 
+Training epoch 401
+Training epoch 402
+Training epoch 403
+Training epoch 404
+Training epoch 405
+* Trained network on character d (-0.092896) 
+Training epoch 406
+Training epoch 407
+Training epoch 408
+Training epoch 409
+Training epoch 410
+* Trained network on character d (-0.091689) 
+Training epoch 411
+Training epoch 412
+Training epoch 413
+Training epoch 414
+Training epoch 415
+* Trained network on character d (-0.090545) 
+Training epoch 416
+Training epoch 417
+Training epoch 418
+Training epoch 419
+Training epoch 420
+* Trained network on character d (-0.089457) 
+Training epoch 421
+Training epoch 422
+Training epoch 423
+Training epoch 424
+Training epoch 425
+* Trained network on character d (-0.088423) 
+Training epoch 426
+Training epoch 427
+Training epoch 428
+Training epoch 429
+Training epoch 430
+* Trained network on character d (-0.087436) 
+Training epoch 431
+Training epoch 432
+Training epoch 433
+Training epoch 434
+Training epoch 435
+* Trained network on character d (-0.086496) 
+Training epoch 436
+Training epoch 437
+Training epoch 438
+Training epoch 439
+Training epoch 440
+* Trained network on character d (-0.085597) 
+Training epoch 441
+Training epoch 442
+Training epoch 443
+Training epoch 444
+Training epoch 445
+* Trained network on character d (-0.084737) 
+Training epoch 446
+Training epoch 447
+Training epoch 448
+Training epoch 449
+Training epoch 450
+* Trained network on character d (-0.083912) 
+Training epoch 451
+Training epoch 452
+Training epoch 453
+Training epoch 454
+Training epoch 455
+* Trained network on character d (-0.083121) 
+Training epoch 456
+Training epoch 457
+Training epoch 458
+Training epoch 459
+Training epoch 460
+* Trained network on character d (-0.082362) 
+Training epoch 461
+Training epoch 462
+Training epoch 463
+Training epoch 464
+Training epoch 465
+* Trained network on character d (-0.081629) 
+Training epoch 466
+Training epoch 467
+Training epoch 468
+Training epoch 469
+Training epoch 470
+* Trained network on character d (-0.080924) 
+Training epoch 471
+Training epoch 472
+Training epoch 473
+Training epoch 474
+Training epoch 475
+* Trained network on character d (-0.080244) 
+Training epoch 476
+Training epoch 477
+Training epoch 478
+Training epoch 479
+Training epoch 480
+* Trained network on character d (-0.079584) 
+Training epoch 481
+Training epoch 482
+Training epoch 483
+Training epoch 484
+Training epoch 485
+* Trained network on character d (-0.078944) 
+Training epoch 486
+Training epoch 487
+Training epoch 488
+Training epoch 489
+Training epoch 490
+* Trained network on character d (-0.078324) 
+Training epoch 491
+Training epoch 492
+Training epoch 493
+Training epoch 494
+Training epoch 495
+* Trained network on character d (-0.077721) 
+Training epoch 496
+Training epoch 497
+Training epoch 498
+Training epoch 499
+Training epoch 500
+* Trained network on character d (-0.077135) 
+Training epoch 501
+Training epoch 502
+Training epoch 503
+Training epoch 504
+Training epoch 505
+* Trained network on character d (-0.076564) 
+Training epoch 506
+Training epoch 507
+Training epoch 508
+Training epoch 509
+Training epoch 510
+* Trained network on character d (-0.076008) 
+Training epoch 511
+Training epoch 512
+Training epoch 513
+Training epoch 514
+Training epoch 515
+* Trained network on character d (-0.075465) 
+Training epoch 516
+Training epoch 517
+Training epoch 518
+Training epoch 519
+Training epoch 520
+* Trained network on character d (-0.074935) 
+Training epoch 521
+Training epoch 522
+Training epoch 523
+Training epoch 524
+Training epoch 525
+* Trained network on character d (-0.074418) 
+Training epoch 526
+Training epoch 527
+Training epoch 528
+Training epoch 529
+Training epoch 530
+* Trained network on character d (-0.073912) 
+Training epoch 531
+Training epoch 532
+Training epoch 533
+Training epoch 534
+Training epoch 535
+* Trained network on character d (-0.073418) 
+Training epoch 536
+Training epoch 537
+Training epoch 538
+Training epoch 539
+Training epoch 540
+* Trained network on character d (-0.072933) 
+Training epoch 541
+Training epoch 542
+Training epoch 543
+Training epoch 544
+Training epoch 545
+* Trained network on character d (-0.072459) 
+Training epoch 546
+Training epoch 547
+Training epoch 548
+Training epoch 549
+Training epoch 550
+* Trained network on character d (-0.071994) 
+Training epoch 551
+Training epoch 552
+Training epoch 553
+Training epoch 554
+Training epoch 555
+* Trained network on character d (-0.071539) 
+Training epoch 556
+Training epoch 557
+Training epoch 558
+Training epoch 559
+Training epoch 560
+* Trained network on character d (-0.071093) 
+Training epoch 561
+Training epoch 562
+Training epoch 563
+Training epoch 564
+Training epoch 565
+* Trained network on character d (-0.070654) 
+Training epoch 566
+Training epoch 567
+Training epoch 568
+Training epoch 569
+Training epoch 570
+* Trained network on character d (-0.070223) 
+Training epoch 571
+Training epoch 572
+Training epoch 573
+Training epoch 574
+Training epoch 575
+* Trained network on character d (-0.069801) 
+Training epoch 576
+Training epoch 577
+Training epoch 578
+Training epoch 579
+Training epoch 580
+* Trained network on character d (-0.069385) 
+Training epoch 581
+Training epoch 582
+Training epoch 583
+Training epoch 584
+Training epoch 585
+* Trained network on character d (-0.068976) 
+Training epoch 586
+Training epoch 587
+Training epoch 588
+Training epoch 589
+Training epoch 590
+* Trained network on character d (-0.068574) 
+Training epoch 591
+Training epoch 592
+Training epoch 593
+Training epoch 594
+Training epoch 595
+* Trained network on character d (-0.068178) 
+Training epoch 596
+Training epoch 597
+Training epoch 598
+Training epoch 599
+Training epoch 600
+* Trained network on character d (-0.067789) 
+Training epoch 601
+Training epoch 602
+Training epoch 603
+Training epoch 604
+Training epoch 605
+* Trained network on character d (-0.067405) 
+Training epoch 606
+Training epoch 607
+Training epoch 608
+Training epoch 609
+Training epoch 610
+* Trained network on character d (-0.067026) 
+Training epoch 611
+Training epoch 612
+Training epoch 613
+Training epoch 614
+Training epoch 615
+* Trained network on character d (-0.066654) 
+Training epoch 616
+Training epoch 617
+Training epoch 618
+Training epoch 619
+Training epoch 620
+* Trained network on character d (-0.066287) 
+Training epoch 621
+Training epoch 622
+Training epoch 623
+Training epoch 624
+Training epoch 625
+* Trained network on character d (-0.065925) 
+Training epoch 626
+Training epoch 627
+Training epoch 628
+Training epoch 629
+Training epoch 630
+* Trained network on character d (-0.065567) 
+Training epoch 631
+Training epoch 632
+Training epoch 633
+Training epoch 634
+Training epoch 635
+* Trained network on character d (-0.065215) 
+Training epoch 636
+Training epoch 637
+Training epoch 638
+Training epoch 639
+Training epoch 640
+* Trained network on character d (-0.064867) 
+Training epoch 641
+Training epoch 642
+Training epoch 643
+Training epoch 644
+Training epoch 645
+* Trained network on character d (-0.064523) 
+Training epoch 646
+Training epoch 647
+Training epoch 648
+Training epoch 649
+Training epoch 650
+* Trained network on character d (-0.064184) 
+Training epoch 651
+Training epoch 652
+Training epoch 653
+Training epoch 654
+Training epoch 655
+* Trained network on character d (-0.063848) 
+Training epoch 656
+Training epoch 657
+Training epoch 658
+Training epoch 659
+Training epoch 660
+* Trained network on character d (-0.063518) 
+Training epoch 661
+Training epoch 662
+Training epoch 663
+Training epoch 664
+Training epoch 665
+* Trained network on character d (-0.063190) 
+Training epoch 666
+Training epoch 667
+Training epoch 668
+Training epoch 669
+Training epoch 670
+* Trained network on character d (-0.062865) 
+Training epoch 671
+Training epoch 672
+Training epoch 673
+Training epoch 674
+Training epoch 675
+* Trained network on character d (-0.062544) 
+Training epoch 676
+Training epoch 677
+Training epoch 678
+Training epoch 679
+Training epoch 680
+* Trained network on character d (-0.062228) 
+Training epoch 681
+Training epoch 682
+Training epoch 683
+Training epoch 684
+Training epoch 685
+* Trained network on character d (-0.061913) 
+Training epoch 686
+Training epoch 687
+Training epoch 688
+Training epoch 689
+Training epoch 690
+* Trained network on character d (-0.061601) 
+Training epoch 691
+Training epoch 692
+Training epoch 693
+Training epoch 694
+Training epoch 695
+* Trained network on character d (-0.061294) 
+Training epoch 696
+Training epoch 697
+Training epoch 698
+Training epoch 699
+Training epoch 700
+* Trained network on character d (-0.060989) 
+Training epoch 701
+Training epoch 702
+Training epoch 703
+Training epoch 704
+Training epoch 705
+* Trained network on character d (-0.060687) 
+Training epoch 706
+Training epoch 707
+Training epoch 708
+Training epoch 709
+Training epoch 710
+* Trained network on character d (-0.060389) 
+Training epoch 711
+Training epoch 712
+Training epoch 713
+Training epoch 714
+Training epoch 715
+* Trained network on character d (-0.060094) 
+Training epoch 716
+Training epoch 717
+Training epoch 718
+Training epoch 719
+Training epoch 720
+* Trained network on character d (-0.059800) 
+Training epoch 721
+Training epoch 722
+Training epoch 723
+Training epoch 724
+Training epoch 725
+* Trained network on character d (-0.059509) 
+Training epoch 726
+Training epoch 727
+Training epoch 728
+Training epoch 729
+Training epoch 730
+* Trained network on character d (-0.059221) 
+Training epoch 731
+Training epoch 732
+Training epoch 733
+Training epoch 734
+Training epoch 735
+* Trained network on character d (-0.058936) 
+Training epoch 736
+Training epoch 737
+Training epoch 738
+Training epoch 739
+Training epoch 740
+* Trained network on character d (-0.058654) 
+Training epoch 741
+Training epoch 742
+Training epoch 743
+Training epoch 744
+Training epoch 745
+* Trained network on character d (-0.058374) 
+Training epoch 746
+Training epoch 747
+Training epoch 748
+Training epoch 749
+Training epoch 750
+* Trained network on character d (-0.058096) 
+Training epoch 751
+Training epoch 752
+Training epoch 753
+Training epoch 754
+Training epoch 755
+* Trained network on character d (-0.057822) 
+Training epoch 756
+Training epoch 757
+Training epoch 758
+Training epoch 759
+Training epoch 760
+* Trained network on character d (-0.057550) 
+Training epoch 761
+Training epoch 762
+Training epoch 763
+Training epoch 764
+Training epoch 765
+* Trained network on character d (-0.057281) 
+Training epoch 766
+Training epoch 767
+Training epoch 768
+Training epoch 769
+Training epoch 770
+* Trained network on character d (-0.057016) 
+Training epoch 771
+Training epoch 772
+Training epoch 773
+Training epoch 774
+Training epoch 775
+* Trained network on character d (-0.056754) 
+Training epoch 776
+Training epoch 777
+Training epoch 778
+Training epoch 779
+Training epoch 780
+* Trained network on character d (-0.056495) 
+Training epoch 781
+Training epoch 782
+Training epoch 783
+Training epoch 784
+Training epoch 785
+* Trained network on character d (-0.056240) 
+Training epoch 786
+Training epoch 787
+Training epoch 788
+Training epoch 789
+Training epoch 790
+* Trained network on character d (-0.055990) 
+Training epoch 791
+Training epoch 792
+Training epoch 793
+Training epoch 794
+Training epoch 795
+* Trained network on character d (-0.055743) 
+Training epoch 796
+Training epoch 797
+Training epoch 798
+Training epoch 799
+Training epoch 800
+* Trained network on character d (-0.055500) 
+Training epoch 801
+Training epoch 802
+Training epoch 803
+Training epoch 804
+Training epoch 805
+* Trained network on character d (-0.055262) 
+Training epoch 806
+Training epoch 807
+Training epoch 808
+Training epoch 809
+Training epoch 810
+* Trained network on character d (-0.055028) 
+Training epoch 811
+Training epoch 812
+Training epoch 813
+Training epoch 814
+Training epoch 815
+* Trained network on character d (-0.054799) 
+Training epoch 816
+Training epoch 817
+Training epoch 818
+Training epoch 819
+Training epoch 820
+* Trained network on character d (-0.054574) 
+Training epoch 821
+Training epoch 822
+Training epoch 823
+Training epoch 824
+Training epoch 825
+* Trained network on character d (-0.054354) 
+Training epoch 826
+Training epoch 827
+Training epoch 828
+Training epoch 829
+Training epoch 830
+* Trained network on character d (-0.054139) 
+Training epoch 831
+Training epoch 832
+Training epoch 833
+Training epoch 834
+Training epoch 835
+* Trained network on character d (-0.053929) 
+Training epoch 836
+Training epoch 837
+Training epoch 838
+Training epoch 839
+Training epoch 840
+* Trained network on character d (-0.053724) 
+Training epoch 841
+Training epoch 842
+Training epoch 843
+Training epoch 844
+Training epoch 845
+* Trained network on character d (-0.053523) 
+Training epoch 846
+Training epoch 847
+Training epoch 848
+Training epoch 849
+Training epoch 850
+* Trained network on character d (-0.053327) 
+Training epoch 851
+Training epoch 852
+Training epoch 853
+Training epoch 854
+Training epoch 855
+* Trained network on character d (-0.053134) 
+Training epoch 856
+Training epoch 857
+Training epoch 858
+Training epoch 859
+Training epoch 860
+* Trained network on character d (-0.052947) 
+Training epoch 861
+Training epoch 862
+Training epoch 863
+Training epoch 864
+Training epoch 865
+* Trained network on character d (-0.052762) 
+Training epoch 866
+Training epoch 867
+Training epoch 868
+Training epoch 869
+Training epoch 870
+* Trained network on character d (-0.052582) 
+Training epoch 871
+Training epoch 872
+Training epoch 873
+Training epoch 874
+Training epoch 875
+* Trained network on character d (-0.052405) 
+Training epoch 876
+Training epoch 877
+Training epoch 878
+Training epoch 879
+Training epoch 880
+* Trained network on character d (-0.052232) 
+Training epoch 881
+Training epoch 882
+Training epoch 883
+Training epoch 884
+Training epoch 885
+* Trained network on character d (-0.052062) 
+Training epoch 886
+Training epoch 887
+Training epoch 888
+Training epoch 889
+Training epoch 890
+* Trained network on character d (-0.051894) 
+Training epoch 891
+Training epoch 892
+Training epoch 893
+Training epoch 894
+Training epoch 895
+* Trained network on character d (-0.051730) 
+Training epoch 896
+Training epoch 897
+Training epoch 898
+Training epoch 899
+Training epoch 900
+* Trained network on character d (-0.051569) 
+Training epoch 901
+Training epoch 902
+Training epoch 903
+Training epoch 904
+Training epoch 905
+* Trained network on character d (-0.051411) 
+Training epoch 906
+Training epoch 907
+Training epoch 908
+Training epoch 909
+Training epoch 910
+* Trained network on character d (-0.051257) 
+Training epoch 911
+Training epoch 912
+Training epoch 913
+Training epoch 914
+Training epoch 915
+* Trained network on character d (-0.051105) 
+Training epoch 916
+Training epoch 917
+Training epoch 918
+Training epoch 919
+Training epoch 920
+* Trained network on character d (-0.050957) 
+Training epoch 921
+Training epoch 922
+Training epoch 923
+Training epoch 924
+Training epoch 925
+* Trained network on character d (-0.050812) 
+Training epoch 926
+Training epoch 927
+Training epoch 928
+Training epoch 929
+Training epoch 930
+* Trained network on character d (-0.050668) 
+Training epoch 931
+Training epoch 932
+Training epoch 933
+Training epoch 934
+Training epoch 935
+* Trained network on character d (-0.050527) 
+Training epoch 936
+Training epoch 937
+Training epoch 938
+Training epoch 939
+Training epoch 940
+* Trained network on character d (-0.050389) 
+Training epoch 941
+Training epoch 942
+Training epoch 943
+Training epoch 944
+Training epoch 945
+* Trained network on character d (-0.050254) 
+Training epoch 946
+Training epoch 947
+Training epoch 948
+Training epoch 949
+Training epoch 950
+* Trained network on character d (-0.050122) 
+Training epoch 951
+Training epoch 952
+Training epoch 953
+Training epoch 954
+Training epoch 955
+* Trained network on character d (-0.049992) 
+Training epoch 956
+Training epoch 957
+Training epoch 958
+Training epoch 959
+Training epoch 960
+* Trained network on character d (-0.049863) 
+Training epoch 961
+Training epoch 962
+Training epoch 963
+Training epoch 964
+Training epoch 965
+* Trained network on character d (-0.049737) 
+Training epoch 966
+Training epoch 967
+Training epoch 968
+Training epoch 969
+Training epoch 970
+* Trained network on character d (-0.049613) 
+Training epoch 971
+Training epoch 972
+Training epoch 973
+Training epoch 974
+Training epoch 975
+* Trained network on character d (-0.049491) 
+Training epoch 976
+Training epoch 977
+Training epoch 978
+Training epoch 979
+Training epoch 980
+* Trained network on character d (-0.049371) 
+Training epoch 981
+Training epoch 982
+Training epoch 983
+Training epoch 984
+Training epoch 985
+* Trained network on character d (-0.049254) 
+Training epoch 986
+Training epoch 987
+Training epoch 988
+Training epoch 989
+Training epoch 990
+* Trained network on character d (-0.049138) 
+Training epoch 991
+Training epoch 992
+Training epoch 993
+Training epoch 994
+Training epoch 995
+* Trained network on character d (-0.049024) 
+Training epoch 996
+Training epoch 997
+Training epoch 998
+Training epoch 999

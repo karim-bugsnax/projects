@@ -1,0 +1,87 @@
+========================================================
+
+Choose Wisely Group:
+OCR's name : Wisely
+
+========================================================
+
+
+Libraries Used / Dependencies :
+-------------------------------
+
+build-essential (for c standerd Libraries)
+glade
+GCC
+libsdl1.2-dev
+
+Group Made Structures:
+----------------------
+#include "base_structures.h"
+    base_structures : Pixel Structure with the rgb data
+                      Bitmap Structure with Height -
+                      Width - Pixel
+
+
+GUI Making :
+------------
+Glade GTK
+
+========================================================
+
+HOW TO RUN THE OCR
+
+========================================================
+
+1) after cloning or downloading (and decompressing)
+    Go all the way in the OCR files to "Files" using the
+    terminal .
+    ```cd {relative path}/karim.abou-dargham/Files
+
+2) Compile with the following command :
+
+    ```make```
+
+3) To run the code :
+	 We have two methods of running the OCR. Either through running the GUI 
+	 or skipping GUI and going into the CLI directly. 
+	 GUI will be called with 
+	 ```./main```
+	 CLI will be called with 
+   ```./main {image to test} {arguments}```
+
+3.1)
+
+	Type "./main" to initiate the program. The GUI should appear on the screen.
+	
+	Use the LOAD button first to chose the image to process (one image only).
+	
+	Use the CONVERT button to run the full OCR. This will provide the resultant
+	.txt file that you can rename and save.
+
+	An alternative to the CONVERT button is the STEP button, which does the exact
+	same thing but shows every single intermediate result (grayscale -> contrast
+	enhancement, noise cancel (and blackwhite), deskewauto, segmentation).
+	The user is expected to press the STEP button again in order for the program
+	to execute the next step.
+
+
+3.2)
+
+	In case one wants to apply filter to the Image without running the totality
+	of the OCR, one has to use the CLI. The following command is adviced :
+	"./main help" , as it will display all the possible commands.
+	|
+	=== > One example is the following : ./main test.bmp gray b 
+		This command will apply Grayscale and Black-White filters, and save
+		the processed result as a .bmp in ../Files/  ; example :
+		UEMADLWKDMFEMCE.bmp
+	
+	The iamge will have a randomly generated name in the following path :
+	../karim.{cantbebotheredaswell}/Files ; example :XUEMCJAKFJWJFSMCEJ.bmp
+	
+	?????
+	
+	Profit
+	
+
+4) Use ```make clean``` to remove compiled data
