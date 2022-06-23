@@ -1,0 +1,2 @@
+var5='Single_quote!' 
+echo "$var5"

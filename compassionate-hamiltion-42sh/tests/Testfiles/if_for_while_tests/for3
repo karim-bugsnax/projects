@@ -1,0 +1,7 @@
+env="1 2 3"
+env2="4 5"
+for var in $env $env2; do
+    echo $var
+done;
+
+

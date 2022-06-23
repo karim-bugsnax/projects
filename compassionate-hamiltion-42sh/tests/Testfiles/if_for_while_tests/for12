@@ -1,0 +1,7 @@
+for var in continue; do
+    if true; then
+        continue;
+    else
+        echo hey;
+    fi;
+done

@@ -1,0 +1,37 @@
+#include <stdio.h>
+
+#include "lexer.h"
+#include "token.h"
+
+char *tab[] = {
+    [IF] = "if", [ELSE] = "else", [ELIF] = "elif", [THEN] = "then",
+    [FI] = "fi", [SEMICOLON] = ";", [BACK_SN] = "\n", [WORD] = "word",
+    [TOK_EOF] = "EOF"
+};
+
+/*int main(void)
+{
+    char *in = "if true; then echo 123; else echo '456 echo 13245'; fi";
+
+    struct lexer *lexer = lexer_new(in);
+    struct token *token = lexer_pop(lexer);
+
+    while (token->type != TOK_EOF && token->type != ERROR)
+    {
+        if (token->type == WORD)
+            printf("%s\n", token->word);
+        else
+            printf("%s\n", tab[token->type]);
+
+        token_free(token);
+        token = lexer_pop(lexer);
+    }
+
+    if (token->type == TOK_EOF)
+        printf("EOF\n");
+
+    token_free(token);
+    lexer_free(lexer);
+
+    return 0;
+}*/

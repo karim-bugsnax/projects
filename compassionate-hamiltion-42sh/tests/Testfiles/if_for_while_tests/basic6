@@ -1,0 +1,5 @@
+if true; then
+    echo a;
+    exit;
+    echo b;
+fi;

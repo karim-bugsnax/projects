@@ -1,0 +1,9 @@
+for var in a b c; do
+    echo $var
+    for var2 in a b c; do
+        echo $var$var2
+        break 2;
+    done;
+    break;
+    echo $var
+done;

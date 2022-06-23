@@ -1,0 +1,2 @@
+var= NOSPACES
+echo $var

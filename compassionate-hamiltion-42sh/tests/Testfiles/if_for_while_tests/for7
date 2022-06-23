@@ -1,0 +1,5 @@
+for var in a b c; do
+    echo $var
+    continue;
+    echo $var
+done;

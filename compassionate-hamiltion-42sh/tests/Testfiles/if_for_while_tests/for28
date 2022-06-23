@@ -1,0 +1,6 @@
+var1=Separated
+var2=Words
+var3=Here
+for var in $var1 $var2 $var3; do
+    echo $var
+done;

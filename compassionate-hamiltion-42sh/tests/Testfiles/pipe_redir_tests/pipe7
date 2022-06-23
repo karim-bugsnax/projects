@@ -1,0 +1,6 @@
+var=echo
+var1=a
+var2=b
+var3=c
+var4=tr
+{$var $var1; $var $var2; $var $var3;} | $var4 $var1 h | $var4 $var2 e | $var4 $var3 y

@@ -1,0 +1,7 @@
+if true; then
+    if false; then
+        echo "Nested If works"
+    else
+        echo "Here instead"
+    fi;
+fi;

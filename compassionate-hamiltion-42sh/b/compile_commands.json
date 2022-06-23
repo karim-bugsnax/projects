@@ -1,0 +1,134 @@
+[
+  {
+    "directory": "/home/karim/Desktop/compassionate_hamilton-42sh-2024/b",
+    "command": "cc -I42sh@exe -I. -I.. -Isrc -I../src -fdiagnostics-color=always -fsanitize=address -fno-omit-frame-pointer -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -Werror -std=c99 -g -D_GNU_SOURCE -D_POSIX_C_SOURCE=200809L -MD -MQ '42sh@exe/src_utils_vec.c.o' -MF '42sh@exe/src_utils_vec.c.o.d' -o '42sh@exe/src_utils_vec.c.o' -c ../src/utils/vec.c",
+    "file": "../src/utils/vec.c",
+    "output": "42sh@exe/src_utils_vec.c.o"
+  },
+  {
+    "directory": "/home/karim/Desktop/compassionate_hamilton-42sh-2024/b",
+    "command": "cc -I42sh@exe -I. -I.. -Isrc -I../src -fdiagnostics-color=always -fsanitize=address -fno-omit-frame-pointer -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -Werror -std=c99 -g -D_GNU_SOURCE -D_POSIX_C_SOURCE=200809L -MD -MQ '42sh@exe/src_utils_error.c.o' -MF '42sh@exe/src_utils_error.c.o.d' -o '42sh@exe/src_utils_error.c.o' -c ../src/utils/error.c",
+    "file": "../src/utils/error.c",
+    "output": "42sh@exe/src_utils_error.c.o"
+  },
+  {
+    "directory": "/home/karim/Desktop/compassionate_hamilton-42sh-2024/b",
+    "command": "cc -I42sh@exe -I. -I.. -Isrc -I../src -fdiagnostics-color=always -fsanitize=address -fno-omit-frame-pointer -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -Werror -std=c99 -g -D_GNU_SOURCE -D_POSIX_C_SOURCE=200809L -MD -MQ '42sh@exe/src_io_cstream.c.o' -MF '42sh@exe/src_io_cstream.c.o.d' -o '42sh@exe/src_io_cstream.c.o' -c ../src/io/cstream.c",
+    "file": "../src/io/cstream.c",
+    "output": "42sh@exe/src_io_cstream.c.o"
+  },
+  {
+    "directory": "/home/karim/Desktop/compassionate_hamilton-42sh-2024/b",
+    "command": "cc -I42sh@exe -I. -I.. -Isrc -I../src -fdiagnostics-color=always -fsanitize=address -fno-omit-frame-pointer -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -Werror -std=c99 -g -D_GNU_SOURCE -D_POSIX_C_SOURCE=200809L -MD -MQ '42sh@exe/src_io_cstream_string.c.o' -MF '42sh@exe/src_io_cstream_string.c.o.d' -o '42sh@exe/src_io_cstream_string.c.o' -c ../src/io/cstream_string.c",
+    "file": "../src/io/cstream_string.c",
+    "output": "42sh@exe/src_io_cstream_string.c.o"
+  },
+  {
+    "directory": "/home/karim/Desktop/compassionate_hamilton-42sh-2024/b",
+    "command": "cc -I42sh@exe -I. -I.. -Isrc -I../src -fdiagnostics-color=always -fsanitize=address -fno-omit-frame-pointer -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -Werror -std=c99 -g -D_GNU_SOURCE -D_POSIX_C_SOURCE=200809L -MD -MQ '42sh@exe/src_io_cstream_file.c.o' -MF '42sh@exe/src_io_cstream_file.c.o.d' -o '42sh@exe/src_io_cstream_file.c.o' -c ../src/io/cstream_file.c",
+    "file": "../src/io/cstream_file.c",
+    "output": "42sh@exe/src_io_cstream_file.c.o"
+  },
+  {
+    "directory": "/home/karim/Desktop/compassionate_hamilton-42sh-2024/b",
+    "command": "cc -I42sh@exe -I. -I.. -Isrc -I../src -fdiagnostics-color=always -fsanitize=address -fno-omit-frame-pointer -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -Werror -std=c99 -g -D_GNU_SOURCE -D_POSIX_C_SOURCE=200809L -MD -MQ '42sh@exe/src_io_cstream_readline.c.o' -MF '42sh@exe/src_io_cstream_readline.c.o.d' -o '42sh@exe/src_io_cstream_readline.c.o' -c ../src/io/cstream_readline.c",
+    "file": "../src/io/cstream_readline.c",
+    "output": "42sh@exe/src_io_cstream_readline.c.o"
+  },
+  {
+    "directory": "/home/karim/Desktop/compassionate_hamilton-42sh-2024/b",
+    "command": "cc -I42sh@exe -I. -I.. -Isrc -I../src -fdiagnostics-color=always -fsanitize=address -fno-omit-frame-pointer -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -Werror -std=c99 -g -D_GNU_SOURCE -D_POSIX_C_SOURCE=200809L -MD -MQ '42sh@exe/src_io_interruptible_readline.c.o' -MF '42sh@exe/src_io_interruptible_readline.c.o.d' -o '42sh@exe/src_io_interruptible_readline.c.o' -c ../src/io/interruptible_readline.c",
+    "file": "../src/io/interruptible_readline.c",
+    "output": "42sh@exe/src_io_interruptible_readline.c.o"
+  },
+  {
+    "directory": "/home/karim/Desktop/compassionate_hamilton-42sh-2024/b",
+    "command": "cc -I42sh@exe -I. -I.. -Isrc -I../src -fdiagnostics-color=always -fsanitize=address -fno-omit-frame-pointer -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -Werror -std=c99 -g -D_GNU_SOURCE -D_POSIX_C_SOURCE=200809L -MD -MQ '42sh@exe/src_parser_parser.c.o' -MF '42sh@exe/src_parser_parser.c.o.d' -o '42sh@exe/src_parser_parser.c.o' -c ../src/parser/parser.c",
+    "file": "../src/parser/parser.c",
+    "output": "42sh@exe/src_parser_parser.c.o"
+  },
+  {
+    "directory": "/home/karim/Desktop/compassionate_hamilton-42sh-2024/b",
+    "command": "cc -I42sh@exe -I. -I.. -Isrc -I../src -fdiagnostics-color=always -fsanitize=address -fno-omit-frame-pointer -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -Werror -std=c99 -g -D_GNU_SOURCE -D_POSIX_C_SOURCE=200809L -MD -MQ '42sh@exe/src_token_token.c.o' -MF '42sh@exe/src_token_token.c.o.d' -o '42sh@exe/src_token_token.c.o' -c ../src/token/token.c",
+    "file": "../src/token/token.c",
+    "output": "42sh@exe/src_token_token.c.o"
+  },
+  {
+    "directory": "/home/karim/Desktop/compassionate_hamilton-42sh-2024/b",
+    "command": "cc -I42sh@exe -I. -I.. -Isrc -I../src -fdiagnostics-color=always -fsanitize=address -fno-omit-frame-pointer -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -Werror -std=c99 -g -D_GNU_SOURCE -D_POSIX_C_SOURCE=200809L -MD -MQ '42sh@exe/src_ast_ast.c.o' -MF '42sh@exe/src_ast_ast.c.o.d' -o '42sh@exe/src_ast_ast.c.o' -c ../src/ast/ast.c",
+    "file": "../src/ast/ast.c",
+    "output": "42sh@exe/src_ast_ast.c.o"
+  },
+  {
+    "directory": "/home/karim/Desktop/compassionate_hamilton-42sh-2024/b",
+    "command": "cc -I42sh@exe -I. -I.. -Isrc -I../src -fdiagnostics-color=always -fsanitize=address -fno-omit-frame-pointer -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -Werror -std=c99 -g -D_GNU_SOURCE -D_POSIX_C_SOURCE=200809L -MD -MQ '42sh@exe/src_lexer_lexer_helper.c.o' -MF '42sh@exe/src_lexer_lexer_helper.c.o.d' -o '42sh@exe/src_lexer_lexer_helper.c.o' -c ../src/lexer/lexer_helper.c",
+    "file": "../src/lexer/lexer_helper.c",
+    "output": "42sh@exe/src_lexer_lexer_helper.c.o"
+  },
+  {
+    "directory": "/home/karim/Desktop/compassionate_hamilton-42sh-2024/b",
+    "command": "cc -I42sh@exe -I. -I.. -Isrc -I../src -fdiagnostics-color=always -fsanitize=address -fno-omit-frame-pointer -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -Werror -std=c99 -g -D_GNU_SOURCE -D_POSIX_C_SOURCE=200809L -MD -MQ '42sh@exe/src_lexer_lexer.c.o' -MF '42sh@exe/src_lexer_lexer.c.o.d' -o '42sh@exe/src_lexer_lexer.c.o' -c ../src/lexer/lexer.c",
+    "file": "../src/lexer/lexer.c",
+    "output": "42sh@exe/src_lexer_lexer.c.o"
+  },
+  {
+    "directory": "/home/karim/Desktop/compassionate_hamilton-42sh-2024/b",
+    "command": "cc -I42sh@exe -I. -I.. -Isrc -I../src -fdiagnostics-color=always -fsanitize=address -fno-omit-frame-pointer -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -Werror -std=c99 -g -D_GNU_SOURCE -D_POSIX_C_SOURCE=200809L -MD -MQ '42sh@exe/src_eval_ast_eval_ast.c.o' -MF '42sh@exe/src_eval_ast_eval_ast.c.o.d' -o '42sh@exe/src_eval_ast_eval_ast.c.o' -c ../src/eval_ast/eval_ast.c",
+    "file": "../src/eval_ast/eval_ast.c",
+    "output": "42sh@exe/src_eval_ast_eval_ast.c.o"
+  },
+  {
+    "directory": "/home/karim/Desktop/compassionate_hamilton-42sh-2024/b",
+    "command": "cc -I42sh@exe -I. -I.. -Isrc -I../src -fdiagnostics-color=always -fsanitize=address -fno-omit-frame-pointer -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -Werror -std=c99 -g -D_GNU_SOURCE -D_POSIX_C_SOURCE=200809L -MD -MQ '42sh@exe/src_eval_ast_env.c.o' -MF '42sh@exe/src_eval_ast_env.c.o.d' -o '42sh@exe/src_eval_ast_env.c.o' -c ../src/eval_ast/env.c",
+    "file": "../src/eval_ast/env.c",
+    "output": "42sh@exe/src_eval_ast_env.c.o"
+  },
+  {
+    "directory": "/home/karim/Desktop/compassionate_hamilton-42sh-2024/b",
+    "command": "cc -I42sh@exe -I. -I.. -Isrc -I../src -fdiagnostics-color=always -fsanitize=address -fno-omit-frame-pointer -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -Werror -std=c99 -g -D_GNU_SOURCE -D_POSIX_C_SOURCE=200809L -MD -MQ '42sh@exe/src_eval_ast_index.c.o' -MF '42sh@exe/src_eval_ast_index.c.o.d' -o '42sh@exe/src_eval_ast_index.c.o' -c ../src/eval_ast/index.c",
+    "file": "../src/eval_ast/index.c",
+    "output": "42sh@exe/src_eval_ast_index.c.o"
+  },
+  {
+    "directory": "/home/karim/Desktop/compassionate_hamilton-42sh-2024/b",
+    "command": "cc -I42sh@exe -I. -I.. -Isrc -I../src -fdiagnostics-color=always -fsanitize=address -fno-omit-frame-pointer -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -Werror -std=c99 -g -D_GNU_SOURCE -D_POSIX_C_SOURCE=200809L -MD -MQ '42sh@exe/src_eval_ast_pipe_redir.c.o' -MF '42sh@exe/src_eval_ast_pipe_redir.c.o.d' -o '42sh@exe/src_eval_ast_pipe_redir.c.o' -c ../src/eval_ast/pipe_redir.c",
+    "file": "../src/eval_ast/pipe_redir.c",
+    "output": "42sh@exe/src_eval_ast_pipe_redir.c.o"
+  },
+  {
+    "directory": "/home/karim/Desktop/compassionate_hamilton-42sh-2024/b",
+    "command": "cc -I42sh@exe -I. -I.. -Isrc -I../src -fdiagnostics-color=always -fsanitize=address -fno-omit-frame-pointer -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -Werror -std=c99 -g -D_GNU_SOURCE -D_POSIX_C_SOURCE=200809L -MD -MQ '42sh@exe/src_eval_ast_variable_expansion.c.o' -MF '42sh@exe/src_eval_ast_variable_expansion.c.o.d' -o '42sh@exe/src_eval_ast_variable_expansion.c.o' -c ../src/eval_ast/variable_expansion.c",
+    "file": "../src/eval_ast/variable_expansion.c",
+    "output": "42sh@exe/src_eval_ast_variable_expansion.c.o"
+  },
+  {
+    "directory": "/home/karim/Desktop/compassionate_hamilton-42sh-2024/b",
+    "command": "cc -I42sh@exe -I. -I.. -Isrc -I../src -fdiagnostics-color=always -fsanitize=address -fno-omit-frame-pointer -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -Werror -std=c99 -g -D_GNU_SOURCE -D_POSIX_C_SOURCE=200809L -MD -MQ '42sh@exe/src_eval_ast_variable_expansion_expansion.c.o' -MF '42sh@exe/src_eval_ast_variable_expansion_expansion.c.o.d' -o '42sh@exe/src_eval_ast_variable_expansion_expansion.c.o' -c ../src/eval_ast/variable_expansion_expansion.c",
+    "file": "../src/eval_ast/variable_expansion_expansion.c",
+    "output": "42sh@exe/src_eval_ast_variable_expansion_expansion.c.o"
+  },
+  {
+    "directory": "/home/karim/Desktop/compassionate_hamilton-42sh-2024/b",
+    "command": "cc -I42sh@exe -I. -I.. -Isrc -I../src -fdiagnostics-color=always -fsanitize=address -fno-omit-frame-pointer -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -Werror -std=c99 -g -D_GNU_SOURCE -D_POSIX_C_SOURCE=200809L -MD -MQ '42sh@exe/src_eval_ast_variable_expansion_processing.c.o' -MF '42sh@exe/src_eval_ast_variable_expansion_processing.c.o.d' -o '42sh@exe/src_eval_ast_variable_expansion_processing.c.o' -c ../src/eval_ast/variable_expansion_processing.c",
+    "file": "../src/eval_ast/variable_expansion_processing.c",
+    "output": "42sh@exe/src_eval_ast_variable_expansion_processing.c.o"
+  },
+  {
+    "directory": "/home/karim/Desktop/compassionate_hamilton-42sh-2024/b",
+    "command": "cc -I42sh@exe -I. -I.. -Isrc -I../src -fdiagnostics-color=always -fsanitize=address -fno-omit-frame-pointer -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -Werror -std=c99 -g -D_GNU_SOURCE -D_POSIX_C_SOURCE=200809L -MD -MQ '42sh@exe/src_eval_ast_variable_expansion_syntax.c.o' -MF '42sh@exe/src_eval_ast_variable_expansion_syntax.c.o.d' -o '42sh@exe/src_eval_ast_variable_expansion_syntax.c.o' -c ../src/eval_ast/variable_expansion_syntax.c",
+    "file": "../src/eval_ast/variable_expansion_syntax.c",
+    "output": "42sh@exe/src_eval_ast_variable_expansion_syntax.c.o"
+  },
+  {
+    "directory": "/home/karim/Desktop/compassionate_hamilton-42sh-2024/b",
+    "command": "cc -I42sh@exe -I. -I.. -Isrc -I../src -fdiagnostics-color=always -fsanitize=address -fno-omit-frame-pointer -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -Werror -std=c99 -g -D_GNU_SOURCE -D_POSIX_C_SOURCE=200809L -MD -MQ '42sh@exe/src_func_list_func.c.o' -MF '42sh@exe/src_func_list_func.c.o.d' -o '42sh@exe/src_func_list_func.c.o' -c ../src/func_list/func.c",
+    "file": "../src/func_list/func.c",
+    "output": "42sh@exe/src_func_list_func.c.o"
+  },
+  {
+    "directory": "/home/karim/Desktop/compassionate_hamilton-42sh-2024/b",
+    "command": "cc -I42sh@exe -I. -I.. -Isrc -I../src -fdiagnostics-color=always -fsanitize=address -fno-omit-frame-pointer -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -Werror -std=c99 -g -D_GNU_SOURCE -D_POSIX_C_SOURCE=200809L -MD -MQ '42sh@exe/src_42sh.c.o' -MF '42sh@exe/src_42sh.c.o.d' -o '42sh@exe/src_42sh.c.o' -c ../src/42sh.c",
+    "file": "../src/42sh.c",
+    "output": "42sh@exe/src_42sh.c.o"
+  }
+]

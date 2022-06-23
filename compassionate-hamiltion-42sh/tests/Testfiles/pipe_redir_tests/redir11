@@ -1,0 +1,2 @@
+echo what 1> file1; echo YaY
+cat file1

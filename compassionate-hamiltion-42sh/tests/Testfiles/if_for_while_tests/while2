@@ -1,0 +1,14 @@
+var=true
+while echo a && true; echo b && false; true; do
+    echo c;
+    if ! $var; then
+        break;
+    else
+        var=false;
+    fi;
+done;
+
+until false; do
+    echo infinity
+    exit;
+    done;

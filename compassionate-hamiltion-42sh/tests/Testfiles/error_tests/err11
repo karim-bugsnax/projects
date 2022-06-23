@@ -1,0 +1,3 @@
+if true then
+    echo where is my semi?
+fi;

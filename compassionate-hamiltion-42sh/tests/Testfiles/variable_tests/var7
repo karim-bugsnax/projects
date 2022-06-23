@@ -1,0 +1,9 @@
+var1=42sh
+var2=42sh.it
+var3=42sh
+
+echo $var1 $var2 {$var3}
+
+for i in $var1 var2 $var3; do
+    echo $i
+done;

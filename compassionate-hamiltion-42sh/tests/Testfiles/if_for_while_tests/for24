@@ -1,0 +1,5 @@
+var1=One
+var2=Word
+for var in $var1$var2; do
+    echo $var
+done;

@@ -1,0 +1,7 @@
+for var in 1 2 3; do
+    if true; then
+        echo true
+    else
+        echo false
+    fi;
+done;

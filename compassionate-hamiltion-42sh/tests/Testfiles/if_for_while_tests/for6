@@ -1,0 +1,10 @@
+for var1 in a b c; do
+    echo for1
+    for var2 in d e f; do
+        echo for2
+        for var3 in g h i; do
+            echo for3
+            echo $var1$var2$var3
+        done;
+    done;
+done;

@@ -1,0 +1,11 @@
+for var in 1 2 3; do
+    if true&&false; then
+        echo true
+    else
+        if true; then
+            echo YaY
+        else
+            echo AyA
+        fi;
+    fi;
+done;

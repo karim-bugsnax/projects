@@ -1,0 +1,9 @@
+if ! false; then
+    if ! true; then
+        echo AyA
+    else
+        echo YaY
+    fi;
+else
+    echo what
+fi;

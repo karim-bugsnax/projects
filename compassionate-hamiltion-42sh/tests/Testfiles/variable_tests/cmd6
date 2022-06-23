@@ -1,0 +1,2 @@
+DATE1=`date`
+echo $"DATE1"

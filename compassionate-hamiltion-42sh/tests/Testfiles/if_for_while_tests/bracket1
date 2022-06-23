@@ -1,0 +1,1 @@
+var=var; echo ${var}; { echo a; echo b; } ; { echo a; echo b;};{ echo a; echo b; }

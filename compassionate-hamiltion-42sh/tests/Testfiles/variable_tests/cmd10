@@ -1,0 +1,2 @@
+HELP=`help`
+echo $HELP

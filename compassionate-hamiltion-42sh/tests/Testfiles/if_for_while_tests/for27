@@ -1,0 +1,6 @@
+var1=One
+var2=Word
+var3=Altogether
+for var in $var1$var2$var3; do
+    echo $var
+done;

@@ -1,0 +1,11 @@
+Build started at 2021-12-01T17:58:20.478380
+Main binary: /usr/bin/python3
+Build Options: 
+Python system: Linux
+The Meson build system
+Version: 0.53.2
+Source dir: /home/samy/Desktop/compassionate_hamilton-42sh-2024/src
+Build dir: /home/samy/Desktop/compassionate_hamilton-42sh-2024/src/builldir
+Build type: native build
+
+ERROR: First statement must be a call to project

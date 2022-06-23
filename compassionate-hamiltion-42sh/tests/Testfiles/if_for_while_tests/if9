@@ -1,0 +1,5 @@
+if true; then
+    if true; then
+        echo "Nested If works"
+    fi;
+fi;

@@ -1,0 +1,3 @@
+if echo a && echo b; then
+    echo c
+fi;

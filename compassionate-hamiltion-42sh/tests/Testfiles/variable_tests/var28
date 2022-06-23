@@ -1,0 +1,2 @@
+var4="Double_quote!" 
+echo "$var4"

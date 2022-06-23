@@ -1,0 +1,2 @@
+DATE2=$(date)
+echo \"$DATE2\"

@@ -1,0 +1,2 @@
+echo Hello > file1
+file1 | tr e a

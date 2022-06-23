@@ -1,0 +1,16 @@
+var=false
+while true; do
+    echo YaY;
+    if $var; then
+        break;
+    else
+        var=true;
+    fi;
+done;
+
+
+until true; do
+    echo should not enter
+    done;
+
+

@@ -1,0 +1,1 @@
+echo what >&1 echo what

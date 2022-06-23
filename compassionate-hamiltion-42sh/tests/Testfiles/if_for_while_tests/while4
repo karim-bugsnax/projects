@@ -1,0 +1,5 @@
+while echo karim && echo and && echo duckie; do echo "under the twee"; break; done
+
+until true && true && echo hey; do echo hello; break; done;
+
+until true && false && echo trtrtr; do echo hello; break; done;

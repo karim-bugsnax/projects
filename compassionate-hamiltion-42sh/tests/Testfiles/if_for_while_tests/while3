@@ -1,0 +1,9 @@
+while true; false; true; do
+    echo ducks; ls;
+    break;
+done;
+
+until true; false; true; do
+    echo ERROR
+    break;
+done;
